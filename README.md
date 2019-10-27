@@ -5,7 +5,12 @@ The major contributors of this repository include [Roger Grosse](https://github.
 ## Introduction
 This repository contains the toy code to reproduce the NQM results from the paper Which Alorithmic Choices Matter at Which Batch Sizes?[Paper](https://arxiv.org/pdf/1907.04164.pdf).
 
-Particularly, you can reproduce our results on momentum, preconditioning, exponential moving average and learning rate decay with this code. Here are a few figures from our paper.
+Particularly, you can reproduce our results on momentum (left figure), preconditioning (both figures), exponential moving average (right figures) and learning rate decay with this code. Here are a few figures from our paper.
+
+<p align="center">
+  <img align="middle" src="figs/momentum-nqm.png" alt="Momentum" width="400" />
+  <img align="middle" src="figs/ema-nqm.png" alt="Exponential Moving Average" width="400" />
+</p>
 
 ## Citation
 To cite this work, please use
